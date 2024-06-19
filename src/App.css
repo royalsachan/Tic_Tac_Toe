@@ -1,0 +1,26 @@
+body{
+  background-color: antiquewhite;
+}
+.block{
+  border: 5px solid;
+  border-color: aquamarine;
+  height:170px;
+  width:150px;
+  cursor:pointer;
+
+  display:flex;
+  justify-content:center;
+  padding-top:20px;
+  align-items:center;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.board{
+  /* background-color: aqua; */
+  padding:50px;
+}
+.row{
+  display:flex;
+
+}
